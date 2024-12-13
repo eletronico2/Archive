@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709495149 source:c:\users\xlvel\code\etaprofessorrandom\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
