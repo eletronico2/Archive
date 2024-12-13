@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716976703 source:c:\users\3bi\projects\file di testo\lv_file-di-testo_v2.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706700385 source:c:\users\3bi\projects\array casuali\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
