@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1712739055 source:c:\users\3bi\projects\librerie\lv_array.cpp
+	<iostream>
+	"mioArray.h"
+
+1712739177 c:\users\3bi\projects\librerie\mioarray.h
+	<iostream>
+
